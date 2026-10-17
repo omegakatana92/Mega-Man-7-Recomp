@@ -1,0 +1,45 @@
+﻿# Build directories and compiled outputs
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.exe
+*.dll
+*.lib
+*.a
+*.o
+*.obj
+*.pdb
+
+# Generated recompilation code and assets
+generated/
+rom_identity.txt
+
+# ROMs and game images
+*.sfc
+*.smc
+*.fig
+*.swc
+*.zip
+*.7z
+*.rar
+
+# Logs and local backups
+*.log
+step*-log.txt
+step*-errors.txt
+*.bak
+*.tmp
+
+# Local editor files
+.vs/
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Outdated Unix build script (Windows build only)
+/build.sh

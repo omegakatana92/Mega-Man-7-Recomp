@@ -1,0 +1,5 @@
+name=Mega Man 7
+rom_file=Mega Man 7 (USA).sfc
+rom_sha256=a255fec32453739903a1954149f19bc9658f4a415600b44badf1d4e5e13a16f9
+normalized_size=2097152
+mapping=hirom
